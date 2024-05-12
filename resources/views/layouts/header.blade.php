@@ -114,11 +114,11 @@
 		  </li>	
 		  
           <!-- Control Sidebar Toggle Button -->
-          <li class="btn-group nav-item">
+          {{-- <li class="btn-group nav-item">
               <a href="#" data-toggle="control-sidebar" title="Setting" class="waves-effect full-screen waves-light btn-danger-light">
 			  	<i data-feather="settings"></i>
 			  </a>
-          </li>
+          </li> --}}
 		  
 	      <!-- User Account-->
           <li class="dropdown user user-menu">
@@ -131,7 +131,7 @@
 					<img src="{{ asset('') }}assets/images/avatar/avatar-1.png" class="avatar rounded-10 bg-primary-light h-40 w-40" alt="" />
 				</div>
             </a>
-            <ul class="dropdown-menu animated flipInX">
+            {{-- <ul class="dropdown-menu animated flipInX">
               <li class="user-body">
 				 <a class="dropdown-item" href="#"><i class="ti-user text-muted me-2"></i> Profile</a>
 				 <a class="dropdown-item" href="#"><i class="ti-wallet text-muted me-2"></i> My Wallet</a>
@@ -139,7 +139,7 @@
 				 <div class="dropdown-divider"></div>
 				 <a class="dropdown-item" href="#"><i class="ti-lock text-muted me-2"></i> Logout</a>
               </li>
-            </ul>
+            </ul> --}}
           </li>	
 			
         </ul>
