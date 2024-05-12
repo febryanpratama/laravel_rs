@@ -31,7 +31,7 @@ class AuthController extends Controller
         }
 
         $response = $this->authServices->postLogin($request->all());
-        dd($response);
+        // dd($response);
 
         if($response['status'] == true){
             return redirect('home')->withSuccess($response['message']);
