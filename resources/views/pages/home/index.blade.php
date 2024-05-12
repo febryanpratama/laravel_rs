@@ -68,7 +68,7 @@
                             </a>					
                         </div>						
                         <div class="col-xl-3 col-md-6 col-6">
-                            <a href="#">
+                            <a href="{{ url('farmasi') }}">
                                 <div class="box">
                                     <div class="box-body text-center">
                                         <div class="bg-warning-light rounded10 p-20 mx-auto w-100 h-100">
