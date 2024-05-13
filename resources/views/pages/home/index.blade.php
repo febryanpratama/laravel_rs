@@ -19,18 +19,22 @@
                                     <li data-bs-target="#carousel-example-generic-Indicators" data-bs-slide-to="0" class="active"></li>
                                     <li data-bs-target="#carousel-example-generic-Indicators" data-bs-slide-to="1"></li>
                                     <li data-bs-target="#carousel-example-generic-Indicators" data-bs-slide-to="2"></li>
+                                    <li data-bs-target="#carousel-example-generic-Indicators" data-bs-slide-to="3"></li>
                                 </ol>                 
                                 <!-- Wrapper for slides -->
                                 <div class="carousel-inner" role="listbox">
-                                <div class="carousel-item active">
-                                    <img src="{{ asset('') }}assets/images/img3.jpg" style="width: 100%;max-height:50%" alt="slide-1">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="{{ asset('') }}assets/images/img1.jpg" style="width: 100%;max-height:50%" alt="slide-2">
-                                </div>
-                                <div class="carousel-item">
-                                    <img src="{{ asset('') }}assets/images/img2.jpg" style="width: 100%;max-height:50%" alt="slide-3">
-                                </div>
+                                    <div class="carousel-item active">
+                                        <img src="{{ asset('') }}assets/images/package/vaksin_serviks.png" style="width: 100%;max-height:50%" alt="slide-1">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="{{ asset('') }}assets/images/package/gigi.png" style="width: 100%;max-height:50%" alt="slide-2">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="{{ asset('') }}assets/images/package/mcu.png" style="width: 100%;max-height:50%" alt="slide-3">
+                                    </div>
+                                    <div class="carousel-item">
+                                        <img src="{{ asset('') }}assets/images/package/mcu_jantung.png" style="width: 100%;max-height:50%" alt="slide-3">
+                                    </div>
                                 </div>
                             </div>               
                         </div>

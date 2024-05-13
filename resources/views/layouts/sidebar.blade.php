@@ -32,9 +32,9 @@
 					</a>
 				</li>	
 				<li>
-					<a href="{{ url('akun') }}">
-					  <i data-feather="users"></i>
-					  <span>Akun</span>
+					<a href="{{ url('farmasi') }}">
+					  <i data-feather="monitor"></i>
+					  <span>Farmasi</span>
 					</a>
 				</li>	     
 				<li>
@@ -48,15 +48,15 @@
 			  <div class="sidebar-widgets">
 				  <div class="mx-25 mb-30 pb-20 side-bx bg-primary-light rounded20">
 					<div class="text-center">
-						<img src="https://rhythm-admin-template.multipurposethemes.com/images/svg-icon/color-svg/custom-17.svg" class="sideimg p-5" alt="">
+						<img src="#" class="sideimg p-5" alt="">
 						<h4 class="title-bx text-primary">Make an Appointments</h4>
 						<a href="#" class="py-10 fs-14 mb-0 text-primary">
-							Best Helth Care here <i class="mdi mdi-arrow-right"></i>
+							Best Health Care here <i class="mdi mdi-arrow-right"></i>
 						</a>
 					</div>
 				  </div>
 				<div class="copyright text-center m-25">
-					<p><strong class="d-block">Rhythm Admin Dashboard</strong> © <script>document.write(new Date().getFullYear())</script> All Rights Reserved</p>
+					<p><strong class="d-block">RS IMMANUEL DASHBOARD</strong> © <script>document.write(new Date().getFullYear())</script> All Rights Reserved</p>
 				</div>
 			  </div>
 		  </div>

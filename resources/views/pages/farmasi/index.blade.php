@@ -6,11 +6,11 @@
         <section class="content">
             <div class="row fx-element-overlay">
                 @foreach ($obat as $item)
-                    <div class="col-12 col-lg-3 col-xl-3 col-sm-12" style="max-height: 20%">
+                    <div class="col-12 col-lg-3 col-xl-3 col-sm-12">
                         <div class="box">
                             <div class="fx-card-item">
                                 <div class="fx-card-avatar fx-overlay-1">
-                                    <img src="{{ $item['foto'] }}" alt="user" class="bbsr-0 bber-0" />
+                                    <img src="{{ $item['foto'] }}" height="200px" alt="user" class="bbsr-0 bber-0" />
                                     <div class="fx-overlay scrl-up">
                                         <ul class="fx-info">
                                             <li>
