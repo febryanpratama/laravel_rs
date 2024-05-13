@@ -4,12 +4,12 @@
 		<a href="index.html" class="logo">
 		  <!-- logo-->
 		  <div class="logo-mini w-50">
-			  <span class="light-logo"><img src="{{ asset('') }}assets/images/logo-letter.png" alt="logo"></span>
-			  <span class="dark-logo"><img src="{{ asset('') }}assets/images/logo-letter.png" alt="logo"></span>
+			  <span class="light-logo"><img src="{{ asset('') }}assets/icons/logo.png" alt="logo"></span>
+			  <span class="dark-logo"><img src="{{ asset('') }}assets/icons/logo.png" alt="logo"></span>
 		  </div>
 		  <div class="logo-lg">
-			  <span class="light-logo"><img src="{{ asset('') }}assets/images/logo-dark-text.png" alt="logo"></span>
-			  <span class="dark-logo"><img src="{{ asset('') }}assets/images/logo-light-text.png" alt="logo"></span>
+			  <span class="light-logo"><img src="{{ asset('') }}assets/icons/text-logo.png" alt="logo"></span>
+			  <span class="dark-logo"><img src="{{ asset('') }}assets/icons/text-logo.png" alt="logo"></span>
 		  </div>
 		</a>	
 	</div>  
@@ -121,7 +121,7 @@
           </li> --}}
 		  
 	      <!-- User Account-->
-          <li class="dropdown user user-menu">
+          {{-- <li class="dropdown user user-menu">
             <a href="#" class="waves-effect waves-light dropdown-toggle w-auto l-h-12 bg-transparent py-0 no-shadow" data-bs-toggle="dropdown" title="User">
 				<div class="d-flex pt-5">
 					<div class="text-end me-10">
@@ -131,16 +131,7 @@
 					<img src="{{ asset('') }}assets/images/avatar/avatar-1.png" class="avatar rounded-10 bg-primary-light h-40 w-40" alt="" />
 				</div>
             </a>
-            {{-- <ul class="dropdown-menu animated flipInX">
-              <li class="user-body">
-				 <a class="dropdown-item" href="#"><i class="ti-user text-muted me-2"></i> Profile</a>
-				 <a class="dropdown-item" href="#"><i class="ti-wallet text-muted me-2"></i> My Wallet</a>
-				 <a class="dropdown-item" href="#"><i class="ti-settings text-muted me-2"></i> Settings</a>
-				 <div class="dropdown-divider"></div>
-				 <a class="dropdown-item" href="#"><i class="ti-lock text-muted me-2"></i> Logout</a>
-              </li>
-            </ul> --}}
-          </li>	
+          </li>	 --}}
 			
         </ul>
       </div>

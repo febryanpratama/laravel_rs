@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="https://rhythm-admin-template.multipurposethemes.com/images/favicon.ico">
+    <link rel="icon" href="{{ asset('') }}assets/icons/logo.png">
 
     <title>RS. Immanuel - Dashboard</title>
     
@@ -325,7 +325,7 @@
 </div>
 <!-- ./wrapper -->
 	
-	<!-- ./side demo panel -->
+	{{-- <!-- ./side demo panel -->
 	<div class="sticky-toolbar">	    
 	    <a href="#" data-bs-toggle="tooltip" data-bs-placement="left" title="Buy Now" class="waves-effect waves-light btn btn-success btn-flat mb-5 btn-sm" target="_blank">
 			<span class="icon-Money"><span class="path1"></span><span class="path2"></span></span>
@@ -447,7 +447,7 @@
             </div>
 		</div>
 	</div>
-	
+	 --}}
 	<!-- Page Content overlay -->
 	
 	
