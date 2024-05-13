@@ -10,7 +10,7 @@
                         <div class="box">
                             <div class="fx-card-item">
                                 <div class="fx-card-avatar fx-overlay-1">
-                                    <img src="{{ $item['foto'] }}" height="200px" alt="user" class="bbsr-0 bber-0" />
+                                    <img src="{{ $item['foto'] }}" alt="user" class="bbsr-0 bber-0" />
                                     <div class="fx-overlay scrl-up">
                                         <ul class="fx-info">
                                             <li>
