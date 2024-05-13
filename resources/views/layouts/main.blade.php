@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="icon" href="https://rhythm-admin-template.multipurposethemes.com/images/favicon.ico">
 
-    <title>Rhythm Admin - Dashboard</title>
+    <title>RS. Immanuel - Dashboard</title>
     
 	<!-- Vendors Style-->
 	<link rel="stylesheet" href="{{ asset('') }}assets/css/vendors_css.css">
